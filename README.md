@@ -5,3 +5,15 @@
 </p>
 
 ### ¡Hola este es mi repositorio sobre mi solución al Challenge!
+
+## Características
+
+- Encriptación y desencriptación de texto fácilmente
+- Interfaz simple y amigable
+
+## Cómo usar
+
+1. Si deseas Enciptar, ingresa el texto y seleciona Encriptar 
+2. Tendras el texto encriptado a un costado
+3. Si deseas Desencriptación, ingresa el texto y haz click en la opción Desencriptar
+4. ¡Disfruta de la seguridad de tus mensajes!
