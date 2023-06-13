@@ -21,3 +21,5 @@
 ## Github Pages
 https://danielsicaja08.github.io/ChallengeEncriptador-AluraOracle/
 
+## Video
+https://youtu.be/mJpPUo6x0RQ
